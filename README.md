@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+ I'm Dhyan Shaji
+
+B.Tech AI & Data Science Student | C | C++ | Python | AI Enthusiast
+
+## 🌐 My Portfolio
+
+[Visit My Portfolio](https://dhyanshaji.github.io/Sample-Portfolio/)
+
 <!--
 **DhyanShaji/DhyanShaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
